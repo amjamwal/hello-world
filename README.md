@@ -2,3 +2,5 @@
 Hello World on Git
 
 This is how I'm closing the issue.
+
+Changed inside branch.
